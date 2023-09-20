@@ -1,5 +1,5 @@
 
-![logo](https://github.com/sendhavnikhar/sendhavnikhar/blob/main/joshua-reddekopp-SyYmXSDnJ54-unsplash.jpg)
+![logo](https://github.com/sendhavnikhar/sendhavnikhar/blob/main/nik.jpg)
 <h1 align="center">Hi 👋, I'm Sendhav Nikhar</h1>
 <h3 align="center">A passionate Java developer from Mahesana,Gujarat,India</h3>
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
